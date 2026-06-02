@@ -5,3 +5,5 @@ __pycache__/
 .env
 .vscode/
 workspace.code-workspace
+task-definition.json
+pyvenv.cfg
